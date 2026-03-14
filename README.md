@@ -14,7 +14,7 @@ note-articles/
 
 | 日付 | タイトル | note URL |
 |------|---------|----------|
-| 2026-03-14 | [GitHub API統合バックエンドを一気に実装した話](./2026-03-14_github-api-implementation.md) | - |
+| 2026-03-14 | [GitHub API統合バックエンドを一気に実装した話](./2026-03-14_github-api-implementation.md) | [Zenn](https://zenn.dev/shintyakos/articles/20260314-github-api-implementation) / [note](https://note.com/deep_harte300/n/n7153b179790c) |
 
 ## noteへの投稿手順
 
