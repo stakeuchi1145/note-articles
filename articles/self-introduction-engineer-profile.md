@@ -1,3 +1,11 @@
+---
+title: "はじめまして。エンジニアの自己紹介"
+emoji: "👋"
+type: "idea"
+topics: ["自己紹介", "個人開発", "android", "go", "vue"]
+published: true
+---
+
 # はじめまして。エンジニアの自己紹介
 
 ## 簡単なプロフィール
