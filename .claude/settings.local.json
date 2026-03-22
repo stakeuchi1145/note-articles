@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(gh api:*)",
+      "Bash(git mv:*)",
+      "Bash(git commit:*)",
+      "Bash(mkdir -p /Users/shintakeuchi/work/note-articles/images/neodriverapp)",
+      "Bash(cp /Users/shintakeuchi/Desktop/neodriver_home.png /Users/shintakeuchi/work/note-articles/images/neodriverapp/)",
+      "Bash(cp /Users/shintakeuchi/Desktop/neodriver_reservation.png /Users/shintakeuchi/work/note-articles/images/neodriverapp/)",
+      "Skill(update-config)"
+    ]
+  }
+}
